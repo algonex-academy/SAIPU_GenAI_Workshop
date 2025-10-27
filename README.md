@@ -1,4 +1,5 @@
 **“Mini-AI Workshop — Trends in Entry-Level IT Hiring (2010→2030)”** 
+
 **LinkedIn:** https://www.linkedin.com/company/algonex-it-solutions/    | Email: solutions@algonex.co.in
 
 **Check your ATS Resume Score according to Job Description:** https://algonex-resume-ai.lovable.app/
