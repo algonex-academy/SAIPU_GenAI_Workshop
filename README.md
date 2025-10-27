@@ -1,4 +1,5 @@
 **“Mini-AI Workshop — Trends in Entry-Level IT Hiring (2010→2030)”** 
+**LinkedIn:** https://www.linkedin.com/company/algonex-it-solutions/    | Email: solutions@algonex.co.in
 
 **Check your ATS Resume Score according to Job Description:** https://algonex-resume-ai.lovable.app/
 
@@ -50,4 +51,5 @@ World Economic Forum Reports
 Trainings | Internships | Freelance
 **Feel Free to Contact:** 9959789424, 7995739967
 Marathahalli, Bangalore
+
 **Register for Upcoming workshops/Hackathons or Industrial Tours:**  https://forms.office.com/r/TCSrNWFCnf  or SCANNER in the another file
