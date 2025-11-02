@@ -1,1 +1,69 @@
+**Gen AI Tools Workshop Project - AI Resume Builder** by Algonex IT Solutions
 
+LinkedIn: https://www.linkedin.com/company/algonex-it-solutions/
+
+**GPT-5 Prompt Framework for Product / App Development**
+1️⃣ Role (Who I Should Be)
+- Define what you want me to act as — this sets my perspective and tone.
+Example:
+“Act as a senior full-stack web app developer and UX strategist specializing in AI-powered tools.”
+
+2️⃣ Task (What You Want Built or Planned)
+- State the main goal clearly — the problem, product, or outcome you want.
+Example:
+“Design a mobile-friendly AI Resume Optimizer web app that analyzes uploaded resumes, gives job-fit insights, and recommends skill improvements.”
+
+3️⃣ Context (Important Details, Scope, and Constraints)
+- Give background info, user type, purpose, and boundaries.
+You can list 5–7 bullets with specific conditions.
+
+Example:
+Target audience: freshers and entry-level graduates.
+- Must work fully in a single HTML file (frontend + embedded JS logic).
+- Should include sections for resume upload, analysis summary, and insights visualization.
+- Keep the design minimal, responsive, and professional.
+- Use neutral colors, modern fonts, and soft animations.
+
+4️⃣ Reasoning (Guidelines, Logic, Validation Rules)
+- Tell me how to think or what to prioritize before producing output.
+Example:
+- Ensure file input and text parsing logic are implemented using vanilla JS.
+- Validate resumes for missing skills, experience gaps, and keyword alignment.
+- Optimize layout for both desktop and mobile.
+- Cross-check that all features run client-side (no backend dependency).
+
+5️⃣ Output Format (How You Want Results Displayed)
+- Clearly state what format I should return — code, document, table, plan, etc.
+Example:
+“Return the complete code in one HTML file with internal CSS and JS sections, properly commented for clarity.”
+
+6️⃣ Stop Condition (When the Task Is Complete)
+Tell me what defines “done.”
+Example:
+“The task is complete when the final output is a fully functional, mobile-responsive HTML file containing all UI sections, logic, and styling in one file.”
+
+**Putting It All Together** — Example Prompt:
+
+*Prompt for Product Development:*
+Act as a senior full-stack web app developer and UX strategist specializing in AI-powered tools.
+Design a mobile-friendly AI Resume Optimizer web app that analyzes uploaded resumes, gives job-fit insights, and recommends skill improvements.
+
+*Context:*
+For freshers and entry-level graduates seeking tech jobs.
+Entire app must be built as a single HTML file (frontend + embedded JS logic).
+Should include sections for: resume upload, AI insights, and visualized improvement areas.
+Keep design clean, responsive, and professional.
+Use soft color palette and minimal UI components.
+
+*Reasoning & Rules:*
+Parse text from PDF/DOCX resumes using client-side JS.
+Identify missing technical skills and suggest 3 relevant certifications or learning paths.
+Display insights in a styled summary box.
+Ensure no external backend or API calls.
+
+*Output Format:*
+Deliver a single, fully functional HTML file with inline CSS and JS.
+Include comments explaining each logic section.
+
+Stop Condition:
+When a user can upload a resume, view insights instantly, and the app runs completely offline.
