@@ -53,4 +53,4 @@ Trainings | Internships | Freelance
 **Feel Free to Contact:** 9959789424, 7995739967
 Marathahalli, Bangalore
 
-**Register for Upcoming workshops/Hackathons or Industrial Tours:**  https://forms.office.com/r/TCSrNWFCnf  or SCANNER in the another file
+**Register for Upcoming workshops/Hackathons or Industrial Tours:**  https://forms.gle/Fk8acVJV7DKsE4RU8  or SCANNER in the another file
